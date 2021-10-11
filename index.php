@@ -22,7 +22,7 @@ function hai($nama)
 
      hello();
       echo '<br>';
-      echo hai('Ariessa');
+      echo hai('Fatihah');
 
 ?>
 <br>
